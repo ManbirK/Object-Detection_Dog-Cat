@@ -1,23 +1,16 @@
-
-.heading
-{
-font-size: 23px;
-width: 100%;
-margin: 0px;
-}
-
-#status
-{
-font-size: 18px;
-}
-
-h1{
-    background: url("background.jpg") ;
-    width: 100%;
-}
-
-body{
-
-    background-size: cover ;
+body {
+    background-size: cover;
     background-position: center;
+}
+
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+ 
+}
+
+#status {
+    font-size: 18px;
 }
